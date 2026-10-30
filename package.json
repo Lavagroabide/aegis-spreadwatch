@@ -2,7 +2,7 @@
   "name": "aegis-spreadwatch",
   "version": "2.3",
   "private": true,
-  "description": "SpreadWatch keeps CS2 buy and sell opportunities legible: net profit, ROI and fee assumptions per ve",
+  "description": "Aegis SpreadWatch: local-first CS2 workspace \u2014 fee-aware spread scanner, vault access and offline Steam Guard codes on device.",
   "type": "module",
   "scripts": {
     "dev": "vite",
